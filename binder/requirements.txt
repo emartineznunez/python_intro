@@ -3,5 +3,5 @@ matplotlib
 pandas
 ipywidgets
 jupyter_contrib_nbextensions
-python-ternary
+sympy
 scipy
