@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+ipywidgets
+jupyter_contrib_nbextensions
+python-ternary
+scipy
